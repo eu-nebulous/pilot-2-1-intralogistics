@@ -1,5 +1,0 @@
-[gerrit]
-host=review.opendev.org
-port=29418
-project=nebulous/pilot-2-1-intralogistics.git
-defaultbranch=master
